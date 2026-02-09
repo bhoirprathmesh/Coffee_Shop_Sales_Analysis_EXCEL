@@ -27,22 +27,6 @@ The **Coffee_Shop_Sale** dataset provides valuable information for analyzing and
 - Total Records: **150,000+ rows**
 - Format: CSV (loaded and analyzed in Excel)
 
-**Columns Included:**
-- `transaction_id`
-- `transaction_date`
-- `transaction_time`
-- `store_id`
-- `store_location`
-- `product_id`
-- `transaction_qty`
-- `unit_price`
-- `Total_Bill`
-- `product_category`
-- `product_type`
-- `product_detail`
-
-This dataset captures detailed transactional information, making it suitable for time-based, product-based, and location-based analysis.
-
 ---
 
 ## 🛠 Tools & Technologies
@@ -88,6 +72,7 @@ This dataset captures detailed transactional information, making it suitable for
 ## 📊 Key Insights
 ## 📸 Dashboard Preview
 ![Coffee Shop Sales Dashboard](Screenshot 2026-02-09 230058.png)
+
 
 ### ⏰ Sales by Hour
 - Sales peak between **7 AM – 10 AM**, indicating strong morning demand.
