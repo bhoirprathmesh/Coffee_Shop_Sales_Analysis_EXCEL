@@ -71,7 +71,7 @@ The **Coffee_Shop_Sale** dataset provides valuable information for analyzing and
 
 ## 📊 Key Insights
 ## 📸 Dashboard Preview
-![Coffee Shop Sales Dashboard](Screenshot 2026-02-09 230058.png)
+![Coffee Shop Sales Dashboard](dashboard.png)
 
 
 ### ⏰ Sales by Hour
